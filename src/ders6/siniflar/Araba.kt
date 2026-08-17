@@ -1,4 +1,4 @@
-package ders6
+package ders6.siniflar
 
 class Araba {
     var renk: String = "Beyaz"

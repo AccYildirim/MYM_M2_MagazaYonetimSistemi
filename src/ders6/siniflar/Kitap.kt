@@ -1,4 +1,4 @@
-package ders6
+package ders6.siniflar
 
 class Kitap {
     var kitapAdi: String = ""
