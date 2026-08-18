@@ -1,4 +1,4 @@
-package ders6.siniflar
+package ders6.alistirmalar.siniflar
 
 class Ogrenci {
     val adSoyad = "Bilinmeyen"
@@ -22,6 +22,4 @@ class Ogrenci {
         }
         return toplam / notlar.size
     }
-
-
 }

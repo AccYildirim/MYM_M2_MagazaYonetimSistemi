@@ -1,9 +1,9 @@
 package ders6.alistirmalar
 
-import ders6.siniflar.BankaHesabiA3
+import ders6.alistirmalar.siniflar.BankaHesabi
 
 fun main() {
-    val hesap = BankaHesabiA3()
+    val hesap = BankaHesabi()
 
     println("Yatırmak istediğiniz tutar: ")
     val yatirilan = readln().toDoubleOrNull() ?: 0.0

@@ -1,6 +1,6 @@
 package ders6.alistirmalar
 
-import ders6.siniflar.KullaniciHesabi
+import ders6.alistirmalar.siniflar.KullaniciHesabi
 
 fun main() {
     val profil = KullaniciHesabi()

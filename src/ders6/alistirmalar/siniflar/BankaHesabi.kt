@@ -1,6 +1,6 @@
-package ders6.siniflar
+package ders6.alistirmalar.siniflar
 
-class BankaHesabiA3 {
+class BankaHesabi {
     private var bakiye: Double = 0.0
 
     fun bakiyeSorgula(): Double {

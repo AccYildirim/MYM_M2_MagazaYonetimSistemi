@@ -1,6 +1,6 @@
 package ders6.alistirmalar
 
-import ders6.siniflar.Ogrenci
+import ders6.alistirmalar.siniflar.Ogrenci
 
 fun main() {
 

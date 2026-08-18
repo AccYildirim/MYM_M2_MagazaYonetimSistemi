@@ -1,4 +1,4 @@
-package ders6.siniflar
+package ders6.alistirmalar.siniflar
 
 class KullaniciHesabi {
     var sifre: String = "123456"
